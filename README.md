@@ -1,3 +1,4 @@
+![brainome logo](./images/brainome_logo.png)
 # brainome/jupyter notebook tutorials
 Interactive Jupyter notebooks running Brainome to measure your data and create ML classifiers.
 
