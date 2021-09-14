@@ -4,7 +4,7 @@ Interactive Jupyter notebooks running Brainome to measure your data and create M
 
 ## Getting started
 ### Browser Snapshot
-This collection of notebooks can be viewed as a [jupyter{book}](https://jupyterbook.org/file-types/notebooks.html?highlight=notebooks#) HTML snapshot at jupyterbook.brainome.ai _(under construction)_
+This collection of notebooks can be viewed as a [jupyter{book}](https://jupyterbook.org/file-types/notebooks.html?highlight=notebooks#) HTML snapshot at [https://jupyter.brainome.ai](https://jupyter.brainome.ai) _(under construction)_
 
 ### Running on Google Colab
 _Requires a google account._
