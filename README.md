@@ -5,7 +5,7 @@ Interactive Jupyter notebooks running Brainome to measure your data and create M
 ## Browser Snapshot
 This collection of notebooks can be viewed as a [jupyter{book}](https://jupyterbook.org/file-types/notebooks.html?highlight=notebooks#) HTML snapshot at [https://jupyter.brainome.ai](https://jupyter.brainome.ai) _(under construction)_
 
-## Running on Google Colab
+## On Google Colab
 _Requires a google account._
 
 Brainome runs on the popular [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
@@ -17,7 +17,7 @@ Brainome runs on the popular [Google Colab](https://colab.research.google.com/no
 * Search for brainome/jupyter
 * Select brainome_index.ipynt to run a notebook instance.
 
-## Running locally using docker
+## Locally using docker
 _Requires git and a docker host_
 ### How To...
 From a command line terminal:
