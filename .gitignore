@@ -1,3 +1,7 @@
+.daimensions.key
+predictor*.py
+report*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
