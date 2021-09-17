@@ -1,5 +1,5 @@
 ![brainome logo](./images/brainome_logo.png)
-# Getting Started
+# Running this Tutorial
 Interactive Jupyter notebooks running Brainome to measure your data and create ML classifiers.
 
 ## Browser Snapshot

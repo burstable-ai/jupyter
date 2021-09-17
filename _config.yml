@@ -2,4 +2,5 @@
 title: "Brainome Jupyter Tutorials"
 logo: images/brainome_logo.png
 execute:
-  execute_notebooks: "off"
+  execute_notebooks: "force"
+  timeout: -1
