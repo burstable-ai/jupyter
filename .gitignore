@@ -4,6 +4,7 @@
 _build
 *.csv
 *.json
+*.csv.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
