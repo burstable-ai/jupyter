@@ -1,10 +1,9 @@
 .daimensions.key
-predictor*.py
-report*.json
-a.py
+*.py
+*.json
 _build
-titanic*.csv
-validation*.json
+*.csv
+*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
