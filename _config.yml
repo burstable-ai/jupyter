@@ -1,6 +1,24 @@
 # in _config.yml
+# reference https://jupyterbook.org/customize/config.html
 title: "Brainome Jupyter Tutorials"
+author: "Andy Stevko <Andy.stevko@brainome.ai>"
+copyright: "2021 Brainome Inc."
 logo: images/brainome_logo.png
 execute:
   execute_notebooks: "force"
   timeout: -1
+  stderr_output: remove
+#sphinx:
+#  config:
+#    nb_render_text_lexer: "python"
+launch_buttons:
+  colab_url: "https://colab.research.google.com"
+
+html:
+  favicon: "images/favicon.png"
+  use_issues_button: true
+  baseurl: "https://jupyter.brainome.ai"
+  google_analytics_id: "UA-177203230-1"
+repository:
+  url: "https://www.github.com/brainome/jupyter"
+  branch: "main"
