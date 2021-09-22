@@ -8,7 +8,7 @@ sections:
 - file: brainome_104_Using_Predictor
 - file: brainome_105_Sourcing_Your_Data_Set
 - file: brainome_106_Describe_Your_CSV
-- file: brainome_200_Using_measurements_to_improve_your_model
+- file: brainome_200_Using_Measurement
 #- file: brainome_201_Data_Suffiency
 #- file: brainome_202_Improving_Learnability
 #- file: brainome_203_Right_Sizing_Data_Sets
@@ -20,7 +20,7 @@ sections:
 #- file: brainome_210_High_Dimensionality
 #- file: brainome_211_Measuring_Bias
 #- file: brainome_212_Unbalanced_Data
-- file: brainome_300_Put_your_model_to_work
+- file: brainome_300_Integrating_Predictors
 - file: brainome_301_Using_Predictors_in_Python
 - file: brainome_302_Generating_Probabilities
 - file: brainome_303_Predictor_Json_Measurements

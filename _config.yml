@@ -1,22 +1,26 @@
 # in _config.yml
 # reference https://jupyterbook.org/customize/config.html
 title: "Brainome Jupyter Tutorials"
-author: "Andy Stevko <Andy.stevko@brainome.ai>"
-copyright: "2021 Brainome Inc."
+author: "Andy.Stevko@brainome.ai"
+copyright: "2021 Brainome Inc"
 logo: images/brainome_logo.png
 execute:
   execute_notebooks: "force"
   timeout: -1
   stderr_output: remove
+  exclude_patterns: ["brainome_301_Using_Predictors_in_Python*"]
 #sphinx:
 #  config:
 #    nb_render_text_lexer: "python"
 launch_buttons:
   colab_url: "https://colab.research.google.com"
+  jupyterhub_url: "https://datahub.berkeley.edu"
 
 html:
   favicon: "images/favicon.png"
+  use_repository_button: true
   use_issues_button: true
+  extra_navbar: ""
   baseurl: "https://jupyter.brainome.ai"
   google_analytics_id: "UA-177203230-1"
 repository:
