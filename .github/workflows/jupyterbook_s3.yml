@@ -49,6 +49,7 @@ jobs:
         run: |
           cd _build/html
           aws s3 sync . s3://jupyter.brainome.ai
+          aws cloudfront create-invalidation --paths /\* --distribution-id E3TZLM4ITHZV99
 
       - name: Archive log files
         uses: actions/upload-artifact@v2
