@@ -9,7 +9,7 @@ sections:
 - file: brainome_105_Sourcing_Your_Data_Set
 - file: brainome_106_Describe_Your_CSV
 - file: brainome_200_Using_Measurement
-#- file: brainome_201_Data_Suffiency
+- file: brainome_201_Data_Sufficiency
 #- file: brainome_202_Improving_Learnability
 #- file: brainome_203_Right_Sizing_Data_Sets
 #- file: brainome_204_How_Smart_Is_My_Model
