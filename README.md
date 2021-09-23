@@ -1,21 +1,26 @@
 ![brainome logo](./images/brainome_logo.png)
 # Running this Tutorial
-Interactive Jupyter notebooks running Brainome to measure your data and create ML classifiers.
+You can run the notebooks directly in Google Colab, download them to run on your own Jupyter/JupyterLab instance, or simply browse the online HTML version.
 
-## Browser Snapshot
-This collection of notebooks can be viewed as a [jupyter{book}](https://jupyterbook.org/file-types/notebooks.html?highlight=notebooks#) HTML snapshot at [https://jupyter.brainome.ai](https://jupyter.brainome.ai)
+## Online HTML Version
+This collection of notebooks can be viewed as HTML snapshots at [https://jupyter.brainome.ai](https://jupyter.brainome.ai)
+
+> At any point, you can click on the rocket icon (top right of the page) and select Colab to open the notebook you are viewing in Google Colab.
+![launching colab](./images/launch_colab.png)
 
 ## Running on Google Colab
 _Requires a google account._
 
-Brainome runs on the popular [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+Brainome runs on the popular [Google Colab](https://colab.research.google.com)
 
 ### How To...
-* Open and log into  https://colab.research.google.com
+* Open and log into https://colab.research.google.com
 * Select File menu | Open notebook
 * Select GitHub tab
-* Search for brainome/jupyter
-* Select brainome_index.ipynt to run a notebook instance.
+* Search for _brainome_
+* Select _brainome/jupyter_ repository _main_ branch
+* Select _brainome_100_index.ipynt_ to run a notebook instance
+![running on colab](./images/manual_open_colab.png)
 
 ## Running locally using Docker Desktop
 _Requires git and docker desktop_
