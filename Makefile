@@ -15,7 +15,7 @@ build:  ## Build the jupyter-book incrementally
 	open _build/html/index.html
 
 clean: ## Remove build artifacts
-	rm -rf .daimensions.key _build *.csv *.py *.csv.gz *.json .ipynb_checkpoints
+	rm -rf .daimensions.key _build *.csv *.py *.csv.gz *.json .ipynb_checkpoints *.txt
 
 deploy: build-all  ## Deploy build to s3
 	aws s3 sync _build/html s3://jupyter.brainome.ai/
