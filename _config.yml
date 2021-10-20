@@ -22,7 +22,7 @@ html:
   use_issues_button: true
   extra_navbar: ""
   baseurl: "https://jupyter.brainome.ai"
-  google_analytics_id: "GTM-PQ6MDLD"
+  google_analytics_id: "UA-177203230-2"
 repository:
   url: "https://www.github.com/brainome/jupyter"
   branch: "main"
