@@ -1,6 +1,6 @@
 ![brainome logo](./images/brainome_logo.png)
 # Running this Tutorial
-You can run the notebooks directly in Google Colab, download them to run on your own Jupyter/JupyterLab instance, or simply browse the online HTML version.
+You can [run the notebooks directly in Google Colab](https://colab.research.google.com/github/brainome/jupyter/blob/main/brainome_100_index.ipynb), download them to run on your own Jupyter/JupyterLab instance, or simply [browse the HTML snapshot](https://jupyter.brainome.ai).
 
 ## Online HTML Version
 This collection of notebooks can be viewed as HTML snapshots at [https://jupyter.brainome.ai](https://jupyter.brainome.ai)
